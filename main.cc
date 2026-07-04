@@ -1,6 +1,6 @@
 include <iostream>
 int main()
 {
-    printf("111\r\n");
+    printf()
     return 0;
 }
