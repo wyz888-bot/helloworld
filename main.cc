@@ -7,5 +7,6 @@ int main()
    printf("11111111");
     printf();
     printf("yzw_dev");
+    printf("test1 yzw_dev");
     return 0;
 }
